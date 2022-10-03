@@ -1,0 +1,156 @@
+.center {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .first-line {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .first-line svg {
+    margin-right: 1vmin;
+  }
+  
+  .first-line h2 {
+    margin-right: 9vmin;
+  }
+  
+  .first-line h3 {
+    margin-left: 10vmin;
+    font-size: calc(13px + 2vmin);
+  }
+  
+  .second-line {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .second-line svg {
+    margin-right: 1vmin;
+  }
+  
+  .second-line h2 {
+    margin-right: 9vmin;
+  }
+  
+  .second-line h3 {
+    margin-left: 9.1vmin;
+    font-size: calc(13px + 2vmin);
+  }
+  
+  .third-line {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .third-line svg {
+    margin-right: 1vmin;
+  }
+  
+  .third-line h2 {
+    margin-right: 21vmin;
+  }
+  
+  .third-line h3 {
+    margin-left: 10vmin;
+    font-size: calc(13px + 2vmin);
+  }
+  
+  .center-left {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .center-left-right {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .center-left-right .first h4{
+    margin-right: 5vmin;
+  }
+  
+  h4{
+    font-size: calc(5px + 1vmin);
+  }
+  
+  .center-left-right h4:last-child{
+    margin-left: 16vmin;
+    margin-right: -2.5vmin;
+  }
+
+  .center-left .button1{
+    margin-left: -15vmin;
+    margin-right: 2vmin;
+  }
+  
+  .App-logo {
+    height: 5vmin;
+    pointer-events: none;
+  }
+  
+  .Star {
+    height: 5vmin;
+    pointer-events: none;
+  }
+  
+  .App-header {
+    background-color: #14152C;
+    min-height: 100vh;
+    font-size: calc(4px + 2vmin);
+    color: white;
+  }
+  
+  .button1 {
+    height: 4vmin;
+    width: 15vmin;
+    background-color: #AA33B5;
+    border: 0px;
+    border-radius: 0.5vmin;
+    color: white;
+    font-weight: 900;
+    font-size: calc(4.5px + 1vmin);
+  }
+
+  .button1:hover {
+    color: black;
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .nav-link:hover {
+    color: white;
+  }
+
+  .button1 .nav-link:hover{
+    color: black;
+  }
+
+  .line {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .line svg {
+    margin-right: 1vmin;
+  }
+  
+  .line h2 {
+    margin-right: 21vmin;
+  }
+  
+  .line h3 {
+    margin-left: 11vmin;
+    font-size: calc(13px + 2vmin);
+  }

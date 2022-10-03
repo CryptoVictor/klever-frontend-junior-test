@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac1da93c.css",
+    "main.js": "/static/js/main.f914ae8d.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/shooting-star.svg": "/static/media/shooting-star.21fa54f5e707ca4aaefbe09fe7565232.svg",
+    "static/media/logo.svg": "/static/media/logo.e508030155275995c5f38fe7de486727.svg",
+    "index.html": "/index.html",
+    "main.ac1da93c.css.map": "/static/css/main.ac1da93c.css.map",
+    "main.f914ae8d.js.map": "/static/js/main.f914ae8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1da93c.css",
+    "static/js/main.f914ae8d.js"
+  ]
+}
